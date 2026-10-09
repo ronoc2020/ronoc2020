@@ -1,66 +1,54 @@
 # Roman Orłowski
 
-**Cybersecurity · Cloud & Infrastructure · Automation**
+**Cybersecurity engineering · Cloud infrastructure · SecDevOps · Automation**  
+Based in the Kraków area, Poland · Open to cybersecurity and infrastructure projects.
 
-Independent technical specialist building practical systems around security, cloud operations, automation and AI-assisted delivery.
-
-I focus on work that produces an observable result: hardened infrastructure, clearer operational processes, automation blueprints, incident/security analysis, and working technical prototypes.
+I work on practical security and operational engineering: protecting Microsoft 365 and Azure environments, improving detection and incident response, strengthening infrastructure, and building testable automation. I value observable outcomes over demo metrics.
 
 ## Current work
 
-### Revenue Factory
-Private production system for turning observed demand into fixed-scope digital services.
-
-- Cloudflare Workers + D1 + R2 + Queues
-- PayPal LIVE/Sandbox separation and verified payment workflow
-- automated fulfillment with deterministic quality gates
-- GitHub Actions CI/CD
-- isolated execution design for build/test workflows
-- explicit separation of test revenue, pipeline value and verified live revenue
-
-**Live storefront:** https://revenue-factory-market.roman-orlowski.workers.dev
-
 ### ROCyber Solutions / ROCyber NEXT
-Cybersecurity and cloud-security work focused on practical protection for SMB environments.
+Cybersecurity, cloud security and operational resilience for business environments.
 
-Areas include:
-- Microsoft Defender / Sentinel / Azure security
-- vulnerability management and hardening
-- incident response and threat analysis
-- NIS2 / ISO 27001 / GDPR-oriented security work
-- infrastructure, monitoring and automation
+- Microsoft Defender, Microsoft Sentinel, Azure and Microsoft 365
+- Threat detection, endpoint protection, log analysis and investigation
+- Infrastructure hardening, incident response and vulnerability management
+- Operational security processes and evidence-based reporting
 
-**About / experience:** https://rocybersolutions.com/about-us/
+**Website:** https://rocybersolutions.com/  
+**Platform:** https://next.rocybersolutions.com/
 
-### ET All-in-One Optimizer
-Public Windows optimization/privacy project maintained in my GitHub account and based on the upstream ET Optimizer project.
+### Revenue Factory
+An experimental revenue-automation platform using Cloudflare Workers, D1, R2 and Queues. It distinguishes commercial opportunities, test payments and **verified real revenue** rather than treating pipeline estimates as earnings.
 
-**Repository:** https://github.com/ronoc2020/ET-All-in-One-Optimizer
+**Storefront:** https://revenue-factory-market.roman-orlowski.workers.dev  
+**Source:** private; no public code access is implied.
+
+### Original open-source projects
+
+| Project | Purpose | Current delivery state |
+| --- | --- | --- |
+| [Hacker's Terminal](https://github.com/ronoc2020/Hackers_Terminal_Game/tree/repair/no-actions-20261009) | React/TypeScript simulated cybersecurity learning game with four objective-driven missions | Repairs staged on a separate branch; not yet production verified |
+| [Natalia Goes to School](https://github.com/ronoc2020/NataliaGoesToSchool) | Self-contained HTML5 Canvas mini-adventure with touch/keyboard controls and offline logic tests | Playable source; public hosting pending |
+| [Entra Inactive Account Review](https://github.com/ronoc2020/Inactive90daysUsers) | Read-only Microsoft Graph report of potentially inactive user accounts | Source available; validate with appropriate tenant permissions before operational use |
+| [Roman Orłowski Portfolio](https://github.com/ronoc2020/roman.orlowski) | Public professional portfolio | Published site; visual/security refinements staged on a separate branch |
+
+Additional repositories in this account include **third-party forks and learning references**. They should not be confused with original authored software.
 
 ## Technical focus
 
-`Azure` · `Microsoft Defender` · `Microsoft Sentinel` · `KQL` · `PowerShell` · `Python` · `Bash`  
-`Cloudflare` · `GitHub Actions` · `Docker` · `Kubernetes` · `Linux` · `Windows Server`  
-`Splunk` · `Elastic` · `Wireshark` · `Nmap` · `Burp Suite` · `MITRE ATT&CK`
+`Azure` · `Microsoft Defender` · `Microsoft Sentinel` · `KQL` · `Microsoft 365` · `IAM`  
+`PowerShell` · `Python` · `Bash` · `Linux` · `Windows Server` · `Cloudflare`  
+`SOC` · `SIEM` · `EDR` · `DevSecOps` · `MITRE ATT&CK` · `OWASP`
 
-## How I work
+## Working approach
 
-**Observe → verify → design → automate → test → document → deploy → measure**
+**Observe → investigate → design → build → verify → document → operate**
 
-I prefer small, evidence-based systems over vague promises. Automation is useful only when the result can be validated.
+I prefer explicit source attribution, safe defaults, reversible changes and clear separation of deployed features from prototypes.
 
-## Available for
+## Contact and professional profile
 
-- cybersecurity / cloud-security consulting
-- infrastructure and operations work
-- automation and workflow design
-- technical audits and hardening
-- incident/problem analysis
-- short fixed-scope technical projects
-
-## Links
-
-- ROCyber Solutions: https://rocybersolutions.com/
-- About / experience: https://rocybersolutions.com/about-us/
-- Revenue Factory: https://revenue-factory-market.roman-orlowski.workers.dev
+- Website: https://rocybersolutions.com/
+- Portfolio: https://ronoc2020.github.io/roman.orlowski/
 - GitHub: https://github.com/ronoc2020
