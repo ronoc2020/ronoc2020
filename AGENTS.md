@@ -13,3 +13,5 @@ Reference: [ROCS canonical AI Gateway Policy](https://github.com/ronoc2020/reven
 - Never embed gateway API keys in browser JS, static assets, mobile bundles or git. Keep endpoints local or behind authenticated private access. Never assume a Docker/Node gateway runs in a Cloudflare Worker.
 - Verify actual provider terms, quotas, latency, JSON/tool compatibility, timeout, 429 behavior, privacy, and reversible rollback before any opt-in change.
 - Do not claim the gateway is installed or production-integrated merely because these instructions exist.
+
+Project-to-agent routing guide: [docs/AI_AGENT_PROJECT_MATRIX.md](docs/AI_AGENT_PROJECT_MATRIX.md).
